@@ -243,7 +243,3 @@ Is the organizer interested in working with you to make your topic great? If not
 #### Are there any additional accessibility considerations you should be aware of?
 
 Do any audience members use a communication device? Can you share your slides ahead of time to make them easier for audience members to access? Will the event be recorded for those who can’t attend in person?
-
-### Responding to a conference Call for Speakers
-
-If you’re submitting a response for a Call for Speakers, and talking about dbt, we’re happy to work with you on this. Reach out to us (@Claire and @Janessa) in Slack to let us know!
